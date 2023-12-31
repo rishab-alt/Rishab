@@ -18,7 +18,7 @@ I'm Rishab, a passionate developer working with HTML, CSS, JavaScript, and Visua
 
 - Visual Basics
 - Networking
-- 
+
 ## 🌐 My Online Presence
 
 - Portfolio: (https://rishab-alt.github.io/Portfolio-Webiste/index.html)
