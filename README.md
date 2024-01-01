@@ -1,5 +1,5 @@
-![image](https://github.com/rishab-alt/rishab-alt/assets/60842647/1dbe952a-35bb-489a-8d06-2de32ce7b934)
-# Hello, World! 👋
+![image](https://github.com/rishab-alt/rishab-alt/assets/60842647/b02a29b8-0332-41d1-8c7f-4c34201b5aad)
+
 
 I'm Rishab, a passionate developer working with HTML, CSS, JavaScript, and Visual Basic. Welcome to my GitHub profile! 🚀
 
