@@ -22,7 +22,6 @@ I'm Rishab, a passionate developer working with HTML, CSS, JavaScript, and Visua
 ## 🌐 My Online Presence
 
 - Portfolio: (http://rishab.tech)
-- Blog: (http://rishab.tech/Blog.html)
 
 ## 📈 GitHub Stats
 
