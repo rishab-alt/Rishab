@@ -17,6 +17,7 @@ I'm Rishab, a passionate developer working with HTML, CSS, JavaScript, and Visua
 ## 🌱 Currently Learning
 
 - Visual Basics
+- React
 - Networking
 
 ## 🌐 My Online Presence
