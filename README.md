@@ -12,7 +12,10 @@ I'm Rishab, a passionate developer working with HTML, CSS, JavaScript, and Visua
 ## 🚀 Projects
 
 - [Project 1: API](https://github.com/rishab-alt/api)
-  - Pulls data from the VATSIM API and displays information on the screen 
+  - Pulls data from the VATSIM API and displays information on the screen
+- [Project 2 : Webstore](https://webstore-orpin-one.vercel.app/)
+  - Functions as a store to buy food products 
+ 
 
 ## 🌱 Currently Learning
 
